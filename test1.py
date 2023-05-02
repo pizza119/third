@@ -1,3 +1,2 @@
-print("안녕하세요. 그냥 해보는 코드입나다.")
-print("추가코드인 척 하는 코드")
-print("뭐가 문제지?")
+for i in range(10):
+    print(i)
